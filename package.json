@@ -9,7 +9,7 @@
     "restart": "pm2 restart KAMRAN-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:Drayyyxd/XD-Baileys",
+    "@whiskeysockets/baileys": "^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -31,7 +31,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "form-data": "^4.0.0",
     "google-tts-api": "^2.0.2",
-    "jimp": "^0.16.1",
+    "jimp": "^0.16.13",
     "path": "^0.12.7",
     "node-fetch": "^2.6.1",
     "btch-downloader": "^2.2.9",
