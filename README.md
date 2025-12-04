@@ -1,4 +1,4 @@
-![KAMRAN-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+FATIMA-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+MANY%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY&color=FF69B4&color=4285F4&color=00C853&color=9C27B0&color=FF5722)
+![KAMRAN-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+KAMRAN-SMD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+MANY%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY&color=FF69B4&color=4285F4&color=00C853&color=9C27B0&color=FF5722)
 ```
 DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
@@ -13,11 +13,11 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
   <p align="center">
-<a href="https://github.com/policeduafatima-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/KAMRAN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/policeduafatima/KAMRAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KAMRAN-SMD/KAMRAN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/KAMRAN-SMD-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/KAMRAN-SMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/KAMRAN-SMD/KAMRAN-SMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KAMRAN-SMD/KAMRAN-SMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KAMRAN-SMD/KAMRAN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/KAMRAN-SMD/KAMRAN-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/KAMRAN-SMD/KAMRAN-SMD/"><img title="Size" src="https://img.shields.io/github/repo-size/KAMRAN-SMD/KAMRAN-SMD?style=flat-square&color=green"></a>
+<a href="https://github.com/KAMRAN-SMD/KAMRAN-SMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -35,11 +35,11 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/fork"><img title="KAMRAN-MD" src="https://img.shields.io/badge/FORK-FATIMA%20MD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/KAMRAN-SMD/KAMRAN-SMD/fork"><img title="KAMRAN-MD" src="https://img.shields.io/badge/FORK-KAMRAN%20SMD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
-`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92315xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92319xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 
 ### <h4 align="">3. Render</h1>
@@ -79,7 +79,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
     </tr>
     <tr>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=policeduafatima/FATIMA-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=KAMRAN-SMD/KAMRAN-SMD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
@@ -94,7 +94,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD" target="_blank">
+      <a href="https://github.com/KAMRAN-SMD/KAMRAN-SMD" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -104,7 +104,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD" target="_blank">
+      <a href="https://github.com/KAMRAN-SMD/KAMRAN-SMD" target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -129,7 +129,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/KAMRAN-SMD/KAMRAN-MD
+1. Go to https://huggingface.co/spaces/KAMRAN-SMD/KAMRAN-SMD
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -143,7 +143,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
 
 > CREDITS PIKABOTZ🎐
-> **_✠ FREE DEPLOYMENT OF FATIMA MD GITHUB WORKFLOW CODE ✠_**
+> **_✠ FREE DEPLOYMENT OF KAMRAN MD GITHUB WORKFLOW CODE ✠_**
 
 ```
 name: Node.js CI
@@ -203,7 +203,7 @@ jobs:
 HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ᴋᴀᴍʀᴀɴ-ᴍᴅ 
 
 <p align="">
-<a href='https://wa.me/+923195068309?text=*HELLO+DR KAMRAN+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+KAMRAN-MD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+923195068309?text=*HELLO+DR_KAMRAN+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+KAMRAN-SMD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -231,9 +231,9 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 
 ---
 
-## ‎![KAMRAN-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+NOTICE!+NOT+FOR+SELL;🔥+ANYONE+COPY+BOT+FILE+SO+FORCE+MANY%2B+PROBLEM;⚡+DON'T+•+TRY+THIS+•+BOT+FILE)
+## ‎![KAMRAN-SMD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+NOTICE!+NOT+FOR+SELL;🔥+ANYONE+COPY+BOT+FILE+SO+FORCE+MANY%2B+PROBLEM;⚡+DON'T+•+TRY+THIS+•+BOT+FILE)
 
 
 
-## ‎![KAMRAN-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=+DR+KAMRAN+OWNER+(+923195068309))
+## ‎![KAMRAN-SMD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=+DR+KAMRAN+OWNER+(+923195068309))
 ```
