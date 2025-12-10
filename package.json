@@ -8,6 +8,9 @@
     "stop": "pm2 stop KAMRAN-MD",
     "restart": "pm2 restart KAMRAN-MD"
   },
+  "engines": {
+    "node": "24.x"
+  },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:whaileys",
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -15,7 +18,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@vitalets/google-translate-api": "^9.2.0",
     "@dark-yasiya/scrap": "1.0.1",
-    "pino": "^8.21.5",
+    "pino": "^8.19.0",
     "pm2": "^5.3.1",
     "util": "^0.12.5",
     "express": "^4.19.2",
