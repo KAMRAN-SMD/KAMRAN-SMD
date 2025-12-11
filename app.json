@@ -1,8 +1,8 @@
 {
-  "name": "KAMRAN-MD",
-  "description": "Javascript WhatsApp bot made by  KAMRAN-MD",
-  "logo": "https://files.catbox.moe/yo8yiv.jpg",
-  "keywords": ["KAMRAN-MD"],
+  "name": "KAMRAN-SMD",
+  "description": "Javascript WhatsApp bot made by  KAMRAN-SMD",
+  "logo": "https://files.catbox.moe/fgtqja.jpg",
+  "keywords": ["KAMRAN-SMD"],
   "success_url": "/",
 
     "stack": "container",
@@ -78,7 +78,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KAMRAN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY KAMRAN-SMD 🖤*"
    
      }, 
     
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KAMRAN-MD"
+      "value": "KAMRAN-SMD"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/yo8yiv.jpg"
+      "value": "https://files.catbox.moe/fgtqja.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER KAMRAN-MD*"
+      "value": "*CREATER KAMRAN-SMD*"
     },
 
       "DELETE_LINKS": {
