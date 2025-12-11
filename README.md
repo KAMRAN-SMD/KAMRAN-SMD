@@ -15,7 +15,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   <p align="center">
 <a href="https://github.com/KAMRAN-SMD-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/KAMRAN-SMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/KAMRAN-SMD/KAMRAN-SMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KAMRAN-SMD/KAMRAN-SMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KAMRAN-SMD/KAMRAN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/KAMRAN-SMD/KAMRAN-SMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KAMRAN-SMD/KAMRAN-SMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/KAMRAN-SMD/KAMRAN-SMD/"><img title="Size" src="https://img.shields.io/github/repo-size/KAMRAN-SMD/KAMRAN-SMD?style=flat-square&color=green"></a>
 <a href="https://github.com/KAMRAN-SMD/KAMRAN-SMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -25,7 +25,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 --- 
 
-<a href="https://files.catbox.moe/yo8yiv.jpg"><img src="https://files.catbox.moe/yo8yiv.jpg" alt="glow" border="0"></a>
+<a href="https://files.catbox.moe/fgtqja.jpg"><img src="https://files.catbox.moe/fgtqja.jpg" alt="glow" border="0"></a>
 ***
 
 
@@ -35,7 +35,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/KAMRAN-SMD/KAMRAN-SMD/fork"><img title="KAMRAN-MD" src="https://img.shields.io/badge/FORK-KAMRAN%20SMD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/KAMRAN-SMD/KAMRAN-SMD/fork"><img title="KAMRAN-SMD" src="https://img.shields.io/badge/FORK-KAMRAN%20SMD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
@@ -69,7 +69,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-<p align="center">Deploy your <strong>KAMRAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>KAMRAN-SMD Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
   <table>
