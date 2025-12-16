@@ -1,8 +1,8 @@
 {
-  "name": "KAMRAN-SMD",
-  "description": "Javascript WhatsApp bot made by  KAMRAN-SMD",
-  "logo": "https://files.catbox.moe/fgtqja.jpg",
-  "keywords": ["KAMRAN-SMD"],
+  "name": "KAMRAN-MD",
+  "description": "Javascript WhatsApp bot made by DR KAMRAN",
+  "logo": "https://files.catbox.moe/ly6553.jpg",
+  "keywords": ["KAMRAN-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "DRKAMRAN"
+      "value": "KAMRAN-MD"
     }, 
       
     "PREFIX": {
@@ -78,7 +78,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KAMRAN-SMD 🖤*"
+      "value": "*SEEN YOUR STATUS BY KAMRAN-MD 🖤*"
    
      }, 
     
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KAMRAN-SMD"
+      "value": "KAMRAN-MD"
 
       }, 
 
@@ -106,13 +106,6 @@
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
       "value": "true"
-      
-    },
-
-     "ANTI_LINK_KICK": {
-      "description": "Make it true if you want bot auto remove group link.",
-      "required": true,
-      "value": "false"
       
     },
     
@@ -131,13 +124,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/fgtqja.jpg"
+      "value": "https://files.catbox.moe/ly6553.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER KAMRAN-SMD*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ DR KAMRAN*"
     },
 
       "DELETE_LINKS": {
@@ -183,14 +176,20 @@
       "value": "inbox"
     }, 
 
-    "ADMIN_EVENTS": {
+    "ADMIN_ACTION": {
       "description": "make it true if want know who promote or demote a member .",
       "required": false,
       "value": "false"
     },
 
     "WELCOME": {
-      "description": "make it true if want goodbye and welcome message in groups.",
+      "description": "make it true if want welcome message in groups.",
+      "required": false,
+      "value": "false"
+    },
+
+    "GOODBYE": {
+      "description": "make it true if want goodbye message in groups.",
       "required": false,
       "value": "false"
     },
